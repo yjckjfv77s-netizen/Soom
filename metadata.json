@@ -1,0 +1,6 @@
+{
+  "name": "수움 (soom)",
+  "description": "대학생을 위한 맞춤형 휴식 솔루션 - 마음 기록, 소리 치유, 맞춤 스트레칭, 마음 성장 저니와 소통 라운지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
